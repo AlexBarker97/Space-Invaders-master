@@ -1,0 +1,20 @@
+﻿  App.cpp
+  Engine.cpp
+C:\Users\Alex\Documents\GitHub\Space-Invaders-master\Engine.cpp(25,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\Documents\GitHub\Space-Invaders-master\Engine.cpp(26,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Invader.cpp
+C:\Users\Alex\Documents\GitHub\Space-Invaders-master\Invader.cpp(202,15): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Alex\Documents\GitHub\Space-Invaders-master\Invader.cpp(201,15): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Alex\Documents\GitHub\Space-Invaders-master\Invader.cpp(219,103): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Alex\Documents\GitHub\Space-Invaders-master\Invader.cpp(219,30): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+  Projectile.cpp
+C:\Users\Alex\Documents\GitHub\Space-Invaders-master\Projectile.cpp(36,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Documents\GitHub\Space-Invaders-master\Projectile.cpp(37,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Ship.cpp
+C:\Users\Alex\Documents\GitHub\Space-Invaders-master\Ship.cpp(19,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\Documents\GitHub\Space-Invaders-master\Ship.cpp(56,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Documents\GitHub\Space-Invaders-master\Ship.cpp(68,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alex\Documents\GitHub\Space-Invaders-master\Ship.cpp(141,103): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Alex\Documents\GitHub\Space-Invaders-master\Ship.cpp(141,30): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+  Generating Code...
+  Game.vcxproj -> C:\Users\Alex\Documents\GitHub\Space-Invaders-master\x64\Debug\Game.exe
